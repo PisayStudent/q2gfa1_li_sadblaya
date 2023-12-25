@@ -62,6 +62,7 @@ footer{
     background: url(../images/sprite3.png) no-repeat;
     width: 66px;
     height: 66px;
+    z-index: 1;
 }
 #instagram{
     background-position: -290px -221px;

@@ -59,7 +59,7 @@ footer{
 } 
 .icon{
     display: inline-block;
-    background: url(../images/sprite3.png) no-repeat;
+    background: url(images/sprite3.png) no-repeat;
     width: 66px;
     height: 66px;
 }
